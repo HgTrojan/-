@@ -7,4 +7,4 @@
 
 节点分享机器人：[Telegram: Contact @Hg_Vless_bot](https://t.me/Hg_Vless_bot)
 
-v2rayn,clash,小火箭,sing-box,vmess,vless,shadowrocket
+v2rayn,clash,小火箭,sing-box,vmess,vless,shadowrocket，翻墙、免费翻墙、免费科学上网、免费节点、免费梯子
