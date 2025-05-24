@@ -5,5 +5,6 @@
 
 :robot: 机器人功能说明： :scroll: 使用 /down 命令：可获取上传的免费自建节点列表。
 
-节点分享机器人：Telegram: Contact @Hg_Vless_bot
+节点分享机器人：[Telegram: Contact @Hg_Vless_bot](https://t.me/Hg_Vless_bot)
+
 v2rayn,clash,小火箭,sing-box,vmess,vless,shadowrocket
